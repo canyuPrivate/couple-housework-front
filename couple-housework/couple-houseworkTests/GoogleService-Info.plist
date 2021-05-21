@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>953611615329-jo4satmb9vko6gaouab9q00trdtsr2j3.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.953611615329-jo4satmb9vko6gaouab9q00trdtsr2j3</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDO728A-EYW_nAWdg8h_seXUmiCu185NJE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>953611615329</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>couple-housework.couple-housework</string>
+	<key>PROJECT_ID</key>
+	<string>couple-housework</string>
+	<key>STORAGE_BUCKET</key>
+	<string>couple-housework.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:953611615329:ios:500da71225f5f64889be20</string>
+	<key>DATABASE_URL</key>
+	<string>https://couple-housework.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+framework module Pods_couple_housework_couple_houseworkUITests {
+  umbrella header "Pods-couple-housework-couple-houseworkUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
